@@ -1,5 +1,5 @@
 # SyllabicScraper
-Python automated Cree scraping of syllabics from https://dictionary.eastcree.org/words to grab and format first search result for given English words.
+Python automated scraping of Cree syllabics from https://dictionary.eastcree.org/words into images to grab and format the first search result for given English words.
 Input  english words into list_of_terms
-Make sure to have  the dictionary opened and fullscreened
-run program
+Make sure to have  the dictionary opened and fullscreened in order to run
+
